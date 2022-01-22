@@ -14,7 +14,7 @@ code.py -- the RTPlayground2.py code
 
 All 3 of these files need to be transfered to the Circuit Playground Express (which should already be loaded with updated versions of CircuitPython and library modules adafruit_motor, simpleio.mpy, and neopixel.mpy)
 
-NOTE: rtplayground.py is too large for a Circuit Playground Express under Python 7.1. For this reason, we had to cross-compile it into a .mpy file. So for Python 7.1, you will need to use the contents of the rtpg2_7.1 directory which will contain both the libraries and the code you will require. There is also a rtp2_6 directory whose contents can be used with Python 6.
+NOTE: rtplayground2.py is too large for a Circuit Playground Express under Python 7.1. For this reason, we had to cross-compile it into a .mpy file. So for Python 7.1, you will need to use the contents of the rtpg2_7.1 directory which will contain both the libraries and the code you will require. There is also a rtp2_6 directory whose contents can be used with Python 6.
 
 WHAT DOES THIS DO?
 
